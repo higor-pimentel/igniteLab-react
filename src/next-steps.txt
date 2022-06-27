@@ -5,3 +5,4 @@
 5 - criaria outro schema na graphCMS com Módulos de aulas - modulos contém apenas os slugs correspondentes àquele módulo
 6 - criaria uma nova página com aulas segmentadas por módulos
 7 - Adicionaria Firebase Storage ou AWS para salvar arquivos
+8 - adicionar loading state com skeletons
