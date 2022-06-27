@@ -1,0 +1,7 @@
+1 - Passaria ele todo para NextJS - 
+2 - + NextAuth para autenticação
+3 - + Stripe ou outra plataforma de pagamentos com webhooks
+4 - adicionaria outro campo no graphCMS das aulas para divisão entre aulas pagas/grátis
+5 - criaria outro schema na graphCMS com Módulos de aulas - modulos contém apenas os slugs correspondentes àquele módulo
+6 - criaria uma nova página com aulas segmentadas por módulos
+7 - Adicionaria Firebase Storage ou AWS para salvar arquivos
